@@ -8,4 +8,5 @@ Required libraries:
 - SDL2
 - SDL_image
 - SDL_mixer
+
 You can download them here: https://www.libsdl.org/projects/
