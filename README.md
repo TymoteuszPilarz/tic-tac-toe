@@ -1,6 +1,6 @@
 # TicTacToe
 
-Well known, classic Tic Tac Toe game, written in pure C++ using SDL2 libraries. 
+Well known, classic Tic Tac Toe game, written in C++ using SDL2 libraries. 
 
 You can play in two modes: pvp and pve. 
 
