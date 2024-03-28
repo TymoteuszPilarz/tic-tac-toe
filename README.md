@@ -2,9 +2,9 @@
 
 Well known, classic Tic Tac Toe game, written in C++ using SDL2 libraries. 
 
-You can play in two modes: pvp and pve. 
+You can play in two modes: PvP and PvE. 
 
-AI player in pve mode is based on minimax algorithm (https://en.wikipedia.org/wiki/Minimax) with Alpha–beta pruning optimization.
+AI player in PvE mode is based on minimax algorithm (https://en.wikipedia.org/wiki/Minimax) with Alpha–beta pruning optimization.
 
 Requirements:
 - C++20
