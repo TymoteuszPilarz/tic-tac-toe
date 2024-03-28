@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic-Tac-Toe
 
 Well known, classic Tic Tac Toe game, written in C++ using SDL2 libraries. 
 
